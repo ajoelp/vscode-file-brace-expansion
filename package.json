@@ -2,8 +2,9 @@
 	"name": "multifile",
 	"displayName": "File Brace Expansion",
 	"description": "Create multiple files with Brace Expansion",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "jpdrbrc",
+	"repository": "git@github.com:ajoelp/vscode-file-brace-expansion.git",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
